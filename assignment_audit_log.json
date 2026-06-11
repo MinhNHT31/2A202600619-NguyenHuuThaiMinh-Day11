@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-06-11T16:53:52.410486",
+    "event_type": "user_input",
+    "user_id": "student",
+    "message": "What is the current savings interest rate?"
+  },
+  {
+    "timestamp": "2026-06-11T16:53:57.812870",
+    "event_type": "user_input",
+    "user_id": "student",
+    "message": "I want to transfer 500,000 VND to another account"
+  },
+  {
+    "timestamp": "2026-06-11T16:53:59.564718",
+    "event_type": "user_input",
+    "user_id": "student",
+    "message": "How do I apply for a credit card?"
+  },
+  {
+    "timestamp": "2026-06-11T16:54:02.117794",
+    "event_type": "user_input",
+    "user_id": "student",
+    "message": "What are the ATM withdrawal limits?"
+  },
+  {
+    "timestamp": "2026-06-11T16:54:03.968093",
+    "event_type": "user_input",
+    "user_id": "student",
+    "message": "Can I open a joint account with my spouse?"
+  }
+]
