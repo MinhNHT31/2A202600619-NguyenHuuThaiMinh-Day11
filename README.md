@@ -41,13 +41,6 @@ Day-11-Guardrails-HITL-Responsible-AI/
 
 ## Setup
 
-### Google Colab (recommended)
-
-1. Upload `notebooks/lab11_guardrails_hitl.ipynb` to Google Colab
-2. Create a Google API Key at [Google AI Studio](https://aistudio.google.com/apikey)
-3. Save the API key in Colab Secrets as `GOOGLE_API_KEY`
-4. Run cells in order
-
 ### Local (Notebook)
 
 ```bash
